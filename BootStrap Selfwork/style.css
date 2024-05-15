@@ -1,0 +1,57 @@
+*{
+    font-family: "Roboto Flex", sans-serif;
+    font-style: normal;
+    font-size: small;
+
+   }
+
+h1,h2,h3,h4{
+ font-family: "Freeman", sans-serif;
+ font-weight: 400;
+ color: black;
+}
+
+body{
+    background-color: rgb(239, 197, 232);
+  margin: 0%;
+}
+
+.v-nav{
+    background-color: rgba(240, 181, 240, 0.863);
+}
+
+header{
+    height: max-content;
+}
+
+
+.hero{
+    background-image: url(./Immagini/Friuli.jpg);
+    height: 500px;
+    width: auto;
+    background-position: center;
+    background-size: cover;
+}
+
+.titles{
+    font-size: x-large;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: rgb(189, 106, 165);
+}
+
+
+
+.equal-height{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+
+h1{
+    font-size: 70px;
+}
